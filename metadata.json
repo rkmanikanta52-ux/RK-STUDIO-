@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Kurnool Biryani Finder",
+  "description": "Find the best Biryani spots in Kurnool using AI-powered search reviews.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
